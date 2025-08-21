@@ -18,7 +18,7 @@ This tool is designed to help users quickly understand long and complex texts su
 
 ### Videorecording
 
-<video width="500" src="./video/video-1.mp4" controls preload></video>
+![Demo Video](./video/video-1.mp4)
 
 ### Full Description:
 

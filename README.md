@@ -16,7 +16,7 @@ This tool is designed to help users quickly understand long and complex texts su
 
 <img src="./img/img3.png" alt="img" width="500">
 
-### [Videorecording](https://drive.google.com/file/d/1A7v5vNn4uvGVa3NqGgIaP_repUSfd8dL/view?usp=sharing)
+### ![Videorecording](./video/video-1.mp4)
 
 ### Full Description:
 

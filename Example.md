@@ -17,3 +17,19 @@ I need bullet by bullet summary
 Here is a bullet-by-bullet summary of the essay <b>"Can Happiness Be Measured Objectively?"</b>:
 
 - <b>Happiness is deeply personal</b> and universally pursued, making it hard to define and measure.
+
+- <b>The central question</b> is whether a subjective feeling like happiness can be measured objectively.
+
+- <b>Psychology, neuroscience, and economics </b> have developed tools to try and quantify happiness.
+
+- <b>Subjective vs. objective:</b> Happiness depends on personal perception, but researchers seek standardized ways to measure it.
+
+- <b>Surveys like the World Happiness Report</b> use self-ratings to offer semi-objective comparisons across populations
+
+- <b>Neuroscience tools</b> (e.g., brain scans, hormone levels) show some correlation with happiness but are not fully reliable or exclusive indicators.
+
+- <b>Economic indicators</b> such as income, employment, and health relate to happiness, but only up to a point.
+
+- <b>Cultural differences</b> affect definitions and sources of happiness, complicating universal measurement.
+
+- <b>Conclusion</b>: Objective tools offer partial insight, but happiness remains fundamentally subjective and individual.

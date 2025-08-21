@@ -17,8 +17,10 @@ This tool is designed to help users quickly understand long and complex texts su
 <img src="./img/img3.png" alt="img" width="500">
 
 ### Videorecording
-
-![Demo Video](./video/video-1.mp4)
+<video width="640" height="360" controls preload="metadata">
+    <source src="video/video-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ### Full Description:
 

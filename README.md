@@ -17,8 +17,8 @@ This tool is designed to help users quickly understand long and complex texts su
 <img src="./img/img3.png" alt="img" width="500">
 
 ### Videorecording
-<video width="640" height="360" controls preload="metadata">
-    <source src="https://github.com/user-attachments/assets/58c76eb3-b5fe-42a2-9839-b85946f385c4" type="video/mp4">
+
+<video width="640" height="360" src="https://github.com/user-attachments/assets/58c76eb3-b5fe-42a2-9839-b85946f385c4" controls preload>
     Your browser does not support the video tag.
 </video>
 

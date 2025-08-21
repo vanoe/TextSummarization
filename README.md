@@ -45,8 +45,6 @@ This tool distinguishes itself by its capacity to generate informative and acces
 
 In the development of the text summarization tool, the process unfolded in several technically intricate steps, each leveraging advanced NLP and AI methodologies to achieve an effective solution. The process can be described in the following steps:
 
-# Text Summarization Tool
-
 *1. Data Collection and Preprocessing*
 
 Initially, a comprehensive dataset of texts spanning various domains was collected to train the summarization models. This dataset included academic papers, news articles, and reports to ensure diversity.

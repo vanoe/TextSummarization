@@ -75,6 +75,12 @@ AvatarBuilder simplifies video creation by allowing users to build videos with *
 
 <video width="500" src="./video/video-1.mp4" controls preload></video>
 
+<video width="500" src="https://github.com/vanoe/TextSummarization/blob/main/video/video-1.mp4" controls preload></video>
+
+<video width="500" src="[./video/video-1.mp4](https://github.com/vanoe/TextSummarization/blob/main/video/video-1.mp4)" controls preload></video>
+
+[./video/video-1.mp4](https://github.com/vanoe/TextSummarization/blob/main/video/video-1.mp4)
+
 ---
 
 ## 📄 References

@@ -18,9 +18,10 @@ This tool is designed to help users quickly understand long and complex texts su
 
 ### Videorecording
 <video width="640" height="360" controls preload="metadata">
-    <source src="video/video-1.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/58c76eb3-b5fe-42a2-9839-b85946f385c4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
 
 ### Full Description:
 

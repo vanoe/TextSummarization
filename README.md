@@ -10,13 +10,15 @@ This tool is designed to help users quickly understand long and complex texts su
 
 ### [Examples](./Example.md)
 
-<img src="./img/img1.png" alt="img" width="500">
+<img src="./img/img1.png" alt="img" style="max-width: 500px; width: 100%;">
 
-<img src="./img/img2.png" alt="img" width="500">
+<img src="./img/img2.png" alt="img" style="max-width: 500px; width: 100%;">
 
-<img src="./img/img3.png" alt="img" width="500">
+<img src="./img/img3.png" alt="img" style="max-width: 500px; width: 100%;">
 
-### ![Videorecording](./video/video-1.mp4)
+### Videorecording
+
+<video style="max-width: 500px; width: 100%;" src="./video/video-1.mp4"></video>
 
 ### Full Description:
 

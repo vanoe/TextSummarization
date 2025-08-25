@@ -1,5 +1,13 @@
 <h1 align="center">📝 Text Summarization Tool</h1>
 
+---
+
+## 🗂 Scheme
+
+<img src="./img/img4.png" alt="Scheme">
+
+---
+
 ### [Examples](./Example.md)
 
 <img src="./img/img1.png" alt="img" width="500">
@@ -19,11 +27,6 @@
 ## 🚀 Introduction
 This tool helps users quickly understand long and complex texts such as articles, reports, academic papers, and documents. Using **advanced AI**, it generates clear and concise summaries that capture the most important points.  
 **Target users:** Professionals 📊 | Students 🎓 | Researchers 🧪
-
----
-
-## 🗂 Scheme
-*(Insert diagram or workflow if needed)*
 
 ---
 
